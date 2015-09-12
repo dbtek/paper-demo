@@ -12,16 +12,16 @@ paginate_path: "page/:num"
 highlighter: pygments
 
 # comments
-disqus: # add disqus shortname here
+disqus: paper-jekyll
 
 # author info
 # add your appropriate info here
-author: # your name
-bio:    # your bio
-email:
-email_md5: # md5 hash of your email
-twitter_username:
-github_username:
+author: Ismail Demirbilek
+bio:    Software Engineer / Designer from Istanbul.
+email:  ce.demirbilek@gmail.com
+email_md5: 1ecf09922951ed72da5e0a6b3b12bfc1
+twitter_username: dbtek
+github_username: dbtek
 
 # Theming options
 # These settings are mandatory.
